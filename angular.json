@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "noticias"
+    }
+  },
+  "defaultProject": "noticias",
+  "cli": {
+    "analytics": "b4edb62d-1877-4a19-af18-37310d734591"
+  }
 }
