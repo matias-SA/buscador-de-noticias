@@ -1,4 +1,8 @@
-# Noticias
+# Buscador de Noticias
+
+Aplicacion que busca noticias segun el pais y la categoria, estos datos son obtenidos atraves de una API. Trabaje interiorizandome en las llamadas HTTP y manejo de datos.
+
+Tecnologias utilizadas: Angular 10 y Bootstrap.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.3.
 
